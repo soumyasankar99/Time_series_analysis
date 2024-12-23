@@ -29,7 +29,7 @@ Time series analysis is a statistical technique used to analyze data points coll
 
 ### Advanced Tutorials:
 1. [Time Series Analysis with Statsmodels](https://www.statsmodels.org/stable/tsa.html)
-2. [Deep Learning for Time Series](https://github.com/jbrownlee/Datasets)
+2. [Time-Series-Analysis-and-Forecasting-with-Python]((https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python?tab=readme-ov-file))
 3. [Practical Time Series Forecasting - GitHub](https://github.com/cran/forecast)
 
 ---
